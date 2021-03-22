@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/design-interview/static/css/main.47e00a34.chunk.css",
+    "main.js": "/design-interview/static/js/main.2a9ff7df.chunk.js",
+    "main.js.map": "/design-interview/static/js/main.2a9ff7df.chunk.js.map",
+    "runtime-main.js": "/design-interview/static/js/runtime-main.c26fe5c9.js",
+    "runtime-main.js.map": "/design-interview/static/js/runtime-main.c26fe5c9.js.map",
+    "static/js/2.9885c1a6.chunk.js": "/design-interview/static/js/2.9885c1a6.chunk.js",
+    "static/js/2.9885c1a6.chunk.js.map": "/design-interview/static/js/2.9885c1a6.chunk.js.map",
+    "index.html": "/design-interview/index.html",
+    "static/css/main.47e00a34.chunk.css.map": "/design-interview/static/css/main.47e00a34.chunk.css.map",
+    "static/js/2.9885c1a6.chunk.js.LICENSE.txt": "/design-interview/static/js/2.9885c1a6.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/design-interview/static/media/Myriad-Pro-Regular.c59859ce.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c26fe5c9.js",
+    "static/js/2.9885c1a6.chunk.js",
+    "static/css/main.47e00a34.chunk.css",
+    "static/js/main.2a9ff7df.chunk.js"
+  ]
+}
